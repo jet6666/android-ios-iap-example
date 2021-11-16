@@ -1,5 +1,5 @@
 Google billing & iOS IAP example
  
-谷歌支持与苹果IAP支付示例代码
+璋锋瓕鏀寔涓庤嫻鏋淚AP鏀粯绀轰緥浠ｇ爜
  
  
